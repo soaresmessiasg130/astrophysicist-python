@@ -2,6 +2,14 @@
 
 [Youtube playlist by Felipe Hime](https://youtube.com/playlist?list=PLgGmq5CrIhxY5j7TXVrIT2RotMdSiO5gN&feature=shared)
 
+## Installation
+
+Install the following python packages:
+
+- numpy
+- matplotlib
+- pandas
+
 ## Annotations
 
 ### 1
